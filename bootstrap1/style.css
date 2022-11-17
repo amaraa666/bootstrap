@@ -1,0 +1,33 @@
+.container{
+    background-color: cadetblue;
+    padding: 10px;
+}
+.section{
+    width: 33%;
+    height: 150px;
+    background-color: rgb(117, 29, 84);
+    margin-top: 10px;
+}
+.alert-div{
+    margin-top: 50px;
+}
+.alert-div>a{
+    padding: 12px 50px;
+    background-color: grey;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.button-section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+}
